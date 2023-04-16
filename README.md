@@ -2,7 +2,7 @@
 A web app where user can create account, manage students, schedule and allocate students to interviews, add scores & update results.
 
 HOSTED LINK
-This is my hosting link on railways app -> https://placement-cellgithubio-production.up.railway.app/
+This is my hosting link on railways app -> https://placement-cellgithubio-production-62c4.up.railway.app/
 
 Features:
 Create account
